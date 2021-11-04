@@ -22,13 +22,6 @@
            <url>${nexus}/repository/maven-snapshots/</url>
        </snapshotRepository>
    </distributionManagement>
-  <servers>
-    <server>
-        <id>snapshots</id>
-        <username>admin</username>
-        <password>admin</password>
-    </server>
-</servers>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
